@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 6,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 400,
+    "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 40000,
+    "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Gemi",
+    "price": 80000000,
+    "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+  },
+  {
+    "id": 6,
+    "title": "1 TL",
+    "price": 0.12,
+    "image": "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "100 TL",
+    "price": 12.40,
+    "image": "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+  },
+  {
+    "id": 8,
+    "title": "iPad Pro",
+    "price": 1700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Çanta",
+    "price": 1500000,
+    "image": "https://st-hummel.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/980183-2102-silvi-canta-637781038251193076.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Elmas",
+    "price": 157878777,
+    "image": "https://bilgihanem.com/wp-content/uploads/2016/01/elmas-hakkinda-bilgiler.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Mona Lisa",
+    "price": 2000000000,
+    "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Ekmek",
+    "price": 0.1,
+    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+  },
+  {
+    "id": 13,
+    "title": "MaccbookPro",
+    "price": 10,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202110_GEO_TR?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1633657730000"
+  },
+  {
+    "id": 14,
+    "title": "Berkant Kull",
+    "price": "paha biçilemez!!",
+    "image": "https://scontent.fkco3-1.fna.fbcdn.net/v/t39.30808-6/241383848_4279705678777705_2854503369212372468_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lqp5JkGrKmIAX883AFS&_nc_ht=scontent.fkco3-1.fna&oh=00_AT-cLsYuZjv7qDJ8dK4CyJsNm7Kk2R3YS3YeCkXgFOZWKQ&oe=635387C0"
+  },
+  {
+    "id": 15,
+    "title": "Adobe Creative cloud",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/800px-Adobe_Acrobat_DC_logo_2020.svg.png"
+  },
+  {
+    "id": 16,
+    "title": "Trendyol Cüzdan kodu",
+    "price": 3,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/84/84/0e848465-ff0b-a495-1d15-4321efb9fa44/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+  }
+]
+
+
+
